@@ -64,7 +64,7 @@ This project focuses on analyzing Zomato restaurant data using Pandas for data c
 * Charts comparing customer ratings across price categories and service types.
 * Analysis of the relationship between ratings, votes, and pricing.
 ## 7. Files Included
-* zomato_data.csv` - Raw dataset
+* `zomato_data.csv - Raw dataset`
 * `DA_Main_Project_file.ipynb` - Pandas analysis and visualizations
 * `README.md` - Project description and usage instructions
 
